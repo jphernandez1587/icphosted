@@ -23,7 +23,7 @@
 
 	<iiopEndpoint id="defaultIiopEndpoint" iiopPort="2809" iiopsPort="2810"/>
 	
-	<application id="daytrader7" location="daytrader-ee7.ear" name="daytrader7"/>
+	<application id="daytrader7" location="daytraderee7.ear" name="daytrader7"/>
 
 	<connectionManager agedTimeout="-1" connectionTimeout="0" id="conMgr1" maxIdleTime="-1" maxPoolSize="100" minPoolSize="100" purgePolicy="FailingConnectionOnly" reapTime="-1"/> 
 
