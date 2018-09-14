@@ -27,7 +27,7 @@ spec:
         app: daytrader3ee6
     spec:
       containers:
-      - image: mycluster.icp:8500/default/daytrader3ee6:latest
+      - image: icpmaster:8500/default/daytrader3ee6:latest
         name: daytrader3ee6
         env:
           - name: WLP_LOGGING_CONSOLE_FORMAT
